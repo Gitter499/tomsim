@@ -1,0 +1,22 @@
+{
+  "author": "raa372",
+  "Registers": {
+    "r0": 31,
+    "r1": 0,
+    "r2": 0,
+    "r3": 31,
+    "r4": 0,
+    "r5": 0,
+    "r6": 0,
+    "r7": 0
+  },
+  "stats": {
+    "cycles": 6141,
+    "instructions": 6,
+    "lw": 1,
+    "sw": 1,
+    "halt": 1,
+    "put": 1,
+    "liz": 2
+  }
+}

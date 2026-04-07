@@ -1,0 +1,7 @@
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/XSim.dir
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/edit_cache.dir
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/rebuild_cache.dir
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/list_install_components.dir
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/install.dir
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/install/local.dir
+/Users/rafo/classes/cs1541/XSim_tick/build/CMakeFiles/install/strip.dir
